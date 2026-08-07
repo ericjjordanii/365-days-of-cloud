@@ -1,0 +1,45 @@
+day: 0
+title: "Topic"
+season: "Season"
+category: "Concept"
+difficulty: 1
+xp: 100
+status: "planned"
+
+prerequisite: null
+next_day: null
+next_topic: null
+
+skills: []
+azure_services: []
+tools: []
+competencies: []
+certification_alignment: []
+
+lab_required: false
+proof_of_work: false
+architecture_diagram: false
+troubleshooting: false
+
+azure_cost: 0.00
+
+social:
+  carousel: "not-started"
+  reel: "not-started"
+  caption: "not-started"
+
+github:
+  readme: "not-started"
+  proof: "not-required"
+  code: "not-required"
+
+published:
+  instagram: null
+  tiktok: null
+  youtube: null
+
+career_evidence:
+  include: false
+  problem: null
+  action: null
+  result: null
