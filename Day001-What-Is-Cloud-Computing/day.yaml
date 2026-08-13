@@ -1,0 +1,56 @@
+day: 1
+title: "What Is Cloud Computing?"
+season: "Season 01 - Cloud Fundamentals"
+category: "Cloud Fundamentals"
+difficulty: 1
+xp: 100
+status: "production-in-progress"
+
+prerequisite: "Start Here"
+next_day: 2
+next_topic: "Why Cloud Computing Exists"
+
+skills:
+  - "cloud computing fundamentals"
+  - "scalability reasoning"
+  - "infrastructure consumption models"
+azure_services:
+  - "Virtual Machines"
+  - "Storage"
+  - "Managed Databases"
+  - "Virtual Network"
+tools: []
+competencies:
+  - "define cloud computing"
+  - "explain why cloud can reduce upfront infrastructure commitments"
+  - "explain that cloud services depend on physical provider infrastructure"
+certification_alignment:
+  - "AZ-900: Describe cloud concepts"
+
+lab_required: false
+proof_of_work: false
+architecture_diagram: false
+troubleshooting: false
+
+azure_cost: 0.00
+
+social:
+  carousel: "complete"
+  reel: "not-started"
+  caption: "complete"
+
+github:
+  readme: "complete"
+  proof: "not-required"
+  code: "not-required"
+
+published:
+  instagram: null
+  tiktok: null
+  youtube: null
+
+career_evidence:
+  include: false
+  problem: null
+  action: null
+  result: null
