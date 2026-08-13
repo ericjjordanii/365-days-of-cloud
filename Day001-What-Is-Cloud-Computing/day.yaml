@@ -4,7 +4,7 @@ season: "Season 01 - Cloud Fundamentals"
 category: "Cloud Fundamentals"
 difficulty: 1
 xp: 100
-status: "production-in-progress"
+status: "production-complete"
 
 prerequisite: "Start Here"
 next_day: 2
@@ -36,8 +36,9 @@ azure_cost: 0.00
 
 social:
   carousel: "complete"
-  reel: "not-started"
+  reel: "optional"
   caption: "complete"
+  short_form_video_required: false
 
 github:
   readme: "complete"
