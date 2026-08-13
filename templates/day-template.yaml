@@ -25,8 +25,9 @@ azure_cost: 0.00
 
 social:
   carousel: "not-started"
-  reel: "not-started"
   caption: "not-started"
+  short_form_video_required: false
+  reel: "optional"
 
 github:
   readme: "not-started"
