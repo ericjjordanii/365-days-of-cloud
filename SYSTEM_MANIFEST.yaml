@@ -1,66 +1,7 @@
 schema_version: "1.0"
 system_name: EJJoftheCloud
-system_type: Personal Cloud Knowledge Operating System
-horizon: "30+ years"
-ai_provider_independent: true
-primary_cloud: Azure
-owner: Eric Jordan
+project_id: SYN-P001
+parent_system: Synthera
+status: active
 
-canonical_sources:
-  system_specification: GitHub
-  production_assets: Google Drive
-  technical_proof: GitHub
-  dashboard: Google Sheets
-
-identity_model:
-  program: EJJ-P001
-  lesson: EJJ-P001-L001
-  knowledge_object: EJJ-KB-CLOUD-0001
-
-knowledge_states:
-  - UNSEEN
-  - LEARNING
-  - UNDERSTOOD
-  - ASSESSED
-  - EXPLAINED
-  - APPLIED
-  - TROUBLESHOT
-  - REINFORCED
-  - MASTERED
-  - STALE
-  - REASSESSMENT_REQUIRED
-
-core_agents:
-  - command_center
-  - cloud_architect
-  - cloud_consultant
-  - content_studio
-  - proof_of_work
-
-oversight_agents:
-  - auditor
-  - career_intelligence
-
-core_workflow:
-  - select_mission
-  - define_canonical_lesson
-  - teach_eric
-  - assess_eric
-  - confirm_proficiency
-  - unlock_production
-  - create_social_package
-  - create_proof_package
-  - store_assets
-  - update_state
-  - publish
-  - reinforce
-
-portability:
-  open_formats: [markdown, yaml, json, csv]
-  externalized_agent_specs: true
-  capability_adapters: true
-  schema_versioning: true
-  event_history: true
-  regression_tests: true
-
-learning_first_rule: "Jarvis development removes friction from learning; it never becomes a prerequisite for learning."
+note: "Reusable system architecture is being moved to the Synthera repository. This repository is the EJJoftheCloud project implementation."
