@@ -4,7 +4,7 @@ season: "Season 01 - Cloud Fundamentals"
 category: "Cloud Fundamentals"
 difficulty: 1
 xp: 100
-status: "production-complete"
+status: "published"
 
 prerequisite: "Start Here"
 next_day: 2
@@ -46,7 +46,7 @@ github:
   code: "not-required"
 
 published:
-  instagram: null
+  instagram: "https://www.instagram.com/p/Db_tUzrFVkG/?igsh=ZGN1ZDNlaTlxYXVj"
   tiktok: null
   youtube: null
 
